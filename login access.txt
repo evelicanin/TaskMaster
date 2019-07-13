@@ -1,0 +1,20 @@
+-- login as admin
+   mir_ko / tango 
+
+-- login as employee
+   no_operater / tango -- to view all tasks that the admin has not yet assigned to an operator
+   dambam / fudbal 
+   eagic / lampa
+   peldo / fazla
+   alko123 / alko123
+   hazmirmanija/
+
+
+-- login as user
+   vedis / salsa
+   vedin / kotorsko
+   tadnan / adnan
+   bmiltiades / bushmaster
+   fadilc/ visabh
+   vadil / borac
+   animal / karate
